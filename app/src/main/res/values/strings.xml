@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hiker Management</string>
+    <string name="logout">Logout</string>
+    <string-array name="listItems">
+        <item>Name</item>
+        <item>Location</item>
+        <item>Length</item>
+        <item>Date</item>
+    </string-array>
+</resources>

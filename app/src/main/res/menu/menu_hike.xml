@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/addObservationHike"
+        android:title="Add New Observation" />
+    <item
+        android:id="@+id/seeObservationHike"
+        android:title="See All Observation" />
+    <item
+        android:id="@+id/deleteHike"
+        android:title="Delete" />
+</menu>
